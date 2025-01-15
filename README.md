@@ -1,0 +1,1 @@
+# content-terraform-vm-azure
